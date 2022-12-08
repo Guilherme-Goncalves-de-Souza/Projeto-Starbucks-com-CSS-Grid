@@ -12,4 +12,4 @@
 
 <br>
 
-<a href = ""> Veja o projeto aqui. </a>
+<a href = "https://guilherme-goncalves-de-souza.github.io/Projeto-Starbucks-com-CSS-Grid/"> Veja o projeto aqui. </a>
